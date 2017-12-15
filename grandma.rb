@@ -6,7 +6,7 @@ def speak_to_grandma(string)
 elsif string != string.upcase
   "HUH?! SPEAK UP, SONNY!"
 end
-  
+
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
