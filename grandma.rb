@@ -7,6 +7,8 @@ elsif string != string.upcase
   "HUH?! SPEAK UP, SONNY!"
 elsif string == "WHAT DID YOU EAT TODAY?"
   "NO, NOT SINCE 1938!"
+else 
+  "NO, NOT SINCE 1938!"
 end
 
 end
